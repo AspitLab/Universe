@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: a6514f090c8f0e544b398ad5517c4a65
+timeCreated: 1484301069
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: desk
+    100002: desk_body
+    100004: desk_leg
+    100006: door
+    100008: door_Intercom
+    100010: end_l
+    100012: end_l 1
+    100014: end_mid
+    100016: end_mid 1
+    100018: end_r
+    100020: end_r 1
+    100022: fabric_l
+    100024: fabric_l 1
+    100026: fabric_l 2
+    100028: fabric_mid
+    100030: fabric_mid 1
+    100032: fabric_r
+    100034: floor
+    100036: frame
+    100038: glass_ceiling
+    100040: glass_floor
+    100042: glass_wall
+    100044: lamps
+    100046: lightBlocker
+    100048: lightBlockers
+    100050: lightStrip_door
+    100052: lightStrip_floor
+    100054: lightStrip_zenGarden
+    100056: lightStrips
+    100058: //RootNode
+    100060: pCube1
+    100062: pCube10
+    100064: pCube11
+    100066: pCube6
+    100068: pentagonLamp_01
+    100070: pentagonLamp_02
+    100072: pentagonLamp_03
+    100074: pentagonLamp_frame
+    100076: pentagonLamp_frame 1
+    100078: pentagonLamp_frame 2
+    100080: pentagonLamp_shade
+    100082: pentagonLamp_shade 1
+    100084: pentagonLamp_shade 2
+    100086: pictures
+    100088: plantWallHanger_1
+    100090: plantWallHanger_2
+    100092: polySurface72
+    100094: rock_1
+    100096: rock_2
+    100098: rock_3
+    100100: room
+    100102: sand
+    100104: sceenWindow
+    100106: sceenWindow 1
+    100108: sceenWindow 2
+    100110: sceenWindow 3
+    100112: screen_1
+    100114: screen_2
+    100116: screen_3
+    100118: screen_4
+    100120: screen_stand
+    100122: screenFrame
+    100124: screenFrame 1
+    100126: screenFrame 2
+    100128: screenFrame 3
+    100130: screens
+    100132: screenSlider
+    100134: shelves
+    100136: sides
+    100138: walls
+    100140: windowCeiling
+    100142: windowCeilingBlinds_l
+    100144: windowCeilingBlinds_mid
+    100146: windowCeilingBlinds_r
+    100148: windowCeilingFrame
+    100150: windowCeilingFrame1
+    100152: windows
+    100154: windowWall
+    100156: windowWallBlinds_l
+    100158: windowWallBlinds_mid
+    100160: windowWallBlinds_r
+    100162: windowWallFrame
+    100164: zenGarden
+    100166: branch_01
+    100168: branch_02
+    100170: branch_03
+    100172: carpet
+    100174: chair_01
+    100176: chair_02
+    100178: clutter
+    100180: dirt
+    100182: door 1
+    100184: fan
+    100186: fan_head
+    100188: fan_pole
+    100190: floorLamp_1
+    100192: floorLamp_2
+    100194: floorLamp_shade
+    100196: floorLamp_shade1
+    100198: floorLamp_stand
+    100200: floorLamp_stand 1
+    100202: floorLamp_stand1
+    100204: hangingLampsEnd
+    100206: hangingLampsWire
+    100208: lightStrip_fan
+    100210: lightStrip_screenStand
+    100212: officeChair
+    100214: plants
+    100216: plants_hanging
+    100218: polySurface84
+    100220: pot
+    100222: screenSlider_screen2
+    100224: screenSlider_screen3
+    100226: screenSlider_screen4
+    100228: shelf_1
+    100230: shelf_2
+    100232: sideTable
+    100234: sideTable_glassTop
+    100236: sideTable_MetalStand
+    100238: topiary
+    100240: topiary_01
+    100242: topiary_02
+    100244: topiary_03
+    400000: desk
+    400002: desk_body
+    400004: desk_leg
+    400006: door
+    400008: door_Intercom
+    400010: end_l
+    400012: end_l 1
+    400014: end_mid
+    400016: end_mid 1
+    400018: end_r
+    400020: end_r 1
+    400022: fabric_l
+    400024: fabric_l 1
+    400026: fabric_l 2
+    400028: fabric_mid
+    400030: fabric_mid 1
+    400032: fabric_r
+    400034: floor
+    400036: frame
+    400038: glass_ceiling
+    400040: glass_floor
+    400042: glass_wall
+    400044: lamps
+    400046: lightBlocker
+    400048: lightBlockers
+    400050: lightStrip_door
+    400052: lightStrip_floor
+    400054: lightStrip_zenGarden
+    400056: lightStrips
+    400058: //RootNode
+    400060: pCube1
+    400062: pCube10
+    400064: pCube11
+    400066: pCube6
+    400068: pentagonLamp_01
+    400070: pentagonLamp_02
+    400072: pentagonLamp_03
+    400074: pentagonLamp_frame
+    400076: pentagonLamp_frame 1
+    400078: pentagonLamp_frame 2
+    400080: pentagonLamp_shade
+    400082: pentagonLamp_shade 1
+    400084: pentagonLamp_shade 2
+    400086: pictures
+    400088: plantWallHanger_1
+    400090: plantWallHanger_2
+    400092: polySurface72
+    400094: rock_1
+    400096: rock_2
+    400098: rock_3
+    400100: room
+    400102: sand
+    400104: sceenWindow
+    400106: sceenWindow 1
+    400108: sceenWindow 2
+    400110: sceenWindow 3
+    400112: screen_1
+    400114: screen_2
+    400116: screen_3
+    400118: screen_4
+    400120: screen_stand
+    400122: screenFrame
+    400124: screenFrame 1
+    400126: screenFrame 2
+    400128: screenFrame 3
+    400130: screens
+    400132: screenSlider
+    400134: shelves
+    400136: sides
+    400138: walls
+    400140: windowCeiling
+    400142: windowCeilingBlinds_l
+    400144: windowCeilingBlinds_mid
+    400146: windowCeilingBlinds_r
+    400148: windowCeilingFrame
+    400150: windowCeilingFrame1
+    400152: windows
+    400154: windowWall
+    400156: windowWallBlinds_l
+    400158: windowWallBlinds_mid
+    400160: windowWallBlinds_r
+    400162: windowWallFrame
+    400164: zenGarden
+    400166: branch_01
+    400168: branch_02
+    400170: branch_03
+    400172: carpet
+    400174: chair_01
+    400176: chair_02
+    400178: clutter
+    400180: dirt
+    400182: door 1
+    400184: fan
+    400186: fan_head
+    400188: fan_pole
+    400190: floorLamp_1
+    400192: floorLamp_2
+    400194: floorLamp_shade
+    400196: floorLamp_shade1
+    400198: floorLamp_stand
+    400200: floorLamp_stand 1
+    400202: floorLamp_stand1
+    400204: hangingLampsEnd
+    400206: hangingLampsWire
+    400208: lightStrip_fan
+    400210: lightStrip_screenStand
+    400212: officeChair
+    400214: plants
+    400216: plants_hanging
+    400218: polySurface84
+    400220: pot
+    400222: screenSlider_screen2
+    400224: screenSlider_screen3
+    400226: screenSlider_screen4
+    400228: shelf_1
+    400230: shelf_2
+    400232: sideTable
+    400234: sideTable_glassTop
+    400236: sideTable_MetalStand
+    400238: topiary
+    400240: topiary_01
+    400242: topiary_02
+    400244: topiary_03
+    2300000: desk_body
+    2300002: desk_leg
+    2300004: door
+    2300006: door_Intercom
+    2300008: end_l
+    2300010: end_l 1
+    2300012: end_mid
+    2300014: end_mid 1
+    2300016: end_r
+    2300018: end_r 1
+    2300020: fabric_l
+    2300022: fabric_l 1
+    2300024: fabric_l 2
+    2300026: fabric_mid
+    2300028: fabric_mid 1
+    2300030: fabric_r
+    2300032: floor
+    2300034: frame
+    2300036: glass_ceiling
+    2300038: glass_floor
+    2300040: glass_wall
+    2300042: lightBlocker
+    2300044: lightStrip_door
+    2300046: lightStrip_floor
+    2300048: lightStrip_zenGarden
+    2300050: pCube1
+    2300052: pCube10
+    2300054: pCube11
+    2300056: pCube6
+    2300058: pentagonLamp_frame
+    2300060: pentagonLamp_frame 1
+    2300062: pentagonLamp_frame 2
+    2300064: pentagonLamp_shade
+    2300066: pentagonLamp_shade 1
+    2300068: pentagonLamp_shade 2
+    2300070: pictures
+    2300072: plantWallHanger_1
+    2300074: plantWallHanger_2
+    2300076: polySurface72
+    2300078: rock_1
+    2300080: rock_2
+    2300082: rock_3
+    2300084: sand
+    2300086: sceenWindow
+    2300088: sceenWindow 1
+    2300090: sceenWindow 2
+    2300092: sceenWindow 3
+    2300094: screen_stand
+    2300096: screenFrame
+    2300098: screenFrame 1
+    2300100: screenFrame 2
+    2300102: screenFrame 3
+    2300104: screenSlider
+    2300106: sides
+    2300108: walls
+    2300110: windowCeilingFrame
+    2300112: windowCeilingFrame1
+    2300114: windowWallFrame
+    2300116: branch_01
+    2300118: branch_02
+    2300120: branch_03
+    2300122: carpet
+    2300124: chair_01
+    2300126: chair_02
+    2300128: dirt
+    2300130: door 1
+    2300132: fan_head
+    2300134: fan_pole
+    2300136: floorLamp_shade
+    2300138: floorLamp_shade1
+    2300140: floorLamp_stand
+    2300142: floorLamp_stand 1
+    2300144: floorLamp_stand1
+    2300146: hangingLampsEnd
+    2300148: hangingLampsWire
+    2300150: lightStrip_fan
+    2300152: lightStrip_screenStand
+    2300154: officeChair
+    2300156: plants_hanging
+    2300158: polySurface84
+    2300160: pot
+    2300162: screenSlider_screen2
+    2300164: screenSlider_screen3
+    2300166: screenSlider_screen4
+    2300168: shelf_1
+    2300170: shelf_2
+    2300172: sideTable_glassTop
+    2300174: sideTable_MetalStand
+    2300176: topiary_01
+    2300178: topiary_02
+    2300180: topiary_03
+    3300000: desk_body
+    3300002: desk_leg
+    3300004: door
+    3300006: door_Intercom
+    3300008: end_l
+    3300010: end_l 1
+    3300012: end_mid
+    3300014: end_mid 1
+    3300016: end_r
+    3300018: end_r 1
+    3300020: fabric_l
+    3300022: fabric_l 1
+    3300024: fabric_l 2
+    3300026: fabric_mid
+    3300028: fabric_mid 1
+    3300030: fabric_r
+    3300032: floor
+    3300034: frame
+    3300036: glass_ceiling
+    3300038: glass_floor
+    3300040: glass_wall
+    3300042: lightBlocker
+    3300044: lightStrip_door
+    3300046: lightStrip_floor
+    3300048: lightStrip_zenGarden
+    3300050: pCube1
+    3300052: pCube10
+    3300054: pCube11
+    3300056: pCube6
+    3300058: pentagonLamp_frame
+    3300060: pentagonLamp_frame 1
+    3300062: pentagonLamp_frame 2
+    3300064: pentagonLamp_shade
+    3300066: pentagonLamp_shade 1
+    3300068: pentagonLamp_shade 2
+    3300070: pictures
+    3300072: plantWallHanger_1
+    3300074: plantWallHanger_2
+    3300076: polySurface72
+    3300078: rock_1
+    3300080: rock_2
+    3300082: rock_3
+    3300084: sand
+    3300086: sceenWindow
+    3300088: sceenWindow 1
+    3300090: sceenWindow 2
+    3300092: sceenWindow 3
+    3300094: screen_stand
+    3300096: screenFrame
+    3300098: screenFrame 1
+    3300100: screenFrame 2
+    3300102: screenFrame 3
+    3300104: screenSlider
+    3300106: sides
+    3300108: walls
+    3300110: windowCeilingFrame
+    3300112: windowCeilingFrame1
+    3300114: windowWallFrame
+    3300116: branch_01
+    3300118: branch_02
+    3300120: branch_03
+    3300122: carpet
+    3300124: chair_01
+    3300126: chair_02
+    3300128: dirt
+    3300130: door 1
+    3300132: fan_head
+    3300134: fan_pole
+    3300136: floorLamp_shade
+    3300138: floorLamp_shade1
+    3300140: floorLamp_stand
+    3300142: floorLamp_stand 1
+    3300144: floorLamp_stand1
+    3300146: hangingLampsEnd
+    3300148: hangingLampsWire
+    3300150: lightStrip_fan
+    3300152: lightStrip_screenStand
+    3300154: officeChair
+    3300156: plants_hanging
+    3300158: polySurface84
+    3300160: pot
+    3300162: screenSlider_screen2
+    3300164: screenSlider_screen3
+    3300166: screenSlider_screen4
+    3300168: shelf_1
+    3300170: shelf_2
+    3300172: sideTable_glassTop
+    3300174: sideTable_MetalStand
+    3300176: topiary_01
+    3300178: topiary_02
+    3300180: topiary_03
+    4300000: sand
+    4300002: rock_1
+    4300004: rock_2
+    4300006: rock_3
+    4300008: sides
+    4300010: frame
+    4300012: glass_floor
+    4300014: windowWallFrame
+    4300016: end_r
+    4300018: fabric_r
+    4300020: fabric_l
+    4300022: end_l
+    4300024: fabric_mid
+    4300026: end_mid
+    4300028: end_l
+    4300030: fabric_l
+    4300032: end_mid
+    4300034: fabric_mid
+    4300036: end_r
+    4300038: fabric_l
+    4300040: windowCeilingFrame
+    4300042: windowCeilingFrame1
+    4300044: glass_wall
+    4300046: glass_ceiling
+    4300048: screenSlider
+    4300050: lightStrip_zenGarden
+    4300052: lightStrip_floor
+    4300054: lightStrip_door
+    4300056: plantWallHanger_1
+    4300058: plantWallHanger_2
+    4300060: door
+    4300062: door_Intercom
+    4300064: desk_leg
+    4300066: desk_body
+    4300068: sceenWindow
+    4300070: screenFrame
+    4300072: sceenWindow
+    4300074: screenFrame
+    4300076: sceenWindow
+    4300078: screenFrame
+    4300080: sceenWindow
+    4300082: screenFrame
+    4300084: screen_stand
+    4300086: walls
+    4300088: floor
+    4300090: pentagonLamp_shade
+    4300092: pentagonLamp_frame
+    4300094: pentagonLamp_shade
+    4300096: pentagonLamp_frame
+    4300098: pentagonLamp_shade
+    4300100: pentagonLamp_frame
+    4300102: pCube11
+    4300104: pCube10
+    4300106: lightBlocker
+    4300108: pCube1
+    4300110: pCube6
+    4300112: polySurface72
+    4300114: pictures
+    4300116: officeChair
+    4300118: chair_01
+    4300120: chair_02
+    4300122: screenSlider_screen2
+    4300124: screenSlider_screen3
+    4300126: screenSlider_screen4
+    4300128: lightStrip_screenStand
+    4300130: floorLamp_stand
+    4300132: floorLamp_stand1
+    4300134: floorLamp_shade1
+    4300136: floorLamp_stand
+    4300138: floorLamp_shade
+    4300140: hangingLampsEnd
+    4300142: hangingLampsWire
+    4300144: shelf_1
+    4300146: shelf_2
+    4300148: polySurface84
+    4300150: fan_head
+    4300152: lightStrip_fan
+    4300154: fan_pole
+    4300156: sideTable_MetalStand
+    4300158: sideTable_glassTop
+    4300160: topiary_03
+    4300162: topiary_02
+    4300164: topiary_01
+    4300166: dirt
+    4300168: pot
+    4300170: branch_03
+    4300172: branch_02
+    4300174: branch_01
+    4300176: carpet
+    4300178: plants_hanging
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
